@@ -1,0 +1,10 @@
+A camada física é a primeira camada do modelo OSI e é responsável pela transmissão dos bits brutos de dados por meio de um canal de comunicação físico, como um cabo ou uma conexão sem fio. A camada física se concentra em aspectos como:
+
+- Características elétricas, mecânicas e funcionais do meio físico de transmissão de dados
+- A forma como os dados são representados fisicamente (por exemplo, em sinais elétricos, ondas de luz ou ondas de rádio)
+- Padrões de codificação de dados, modulação e demodulação usados para transmitir informações entre dispositivos de rede
+- Esquemas de controle de acesso ao meio físico, como CSMA/CD ou CSMA/CA
+
+Em termos de segurança de redes, você precisa entender como as tecnologias físicas da rede podem ser vulneráveis ​​a ataques, como a interceptação de sinais, o corte de cabos, a injeção de sinais eletromagnéticos, o roubo de equipamentos e a interferência na rede. Além disso, você precisa entender como as tecnologias de criptografia e autenticação podem ser usadas para proteger a comunicação física de dados.
+
+Por exemplo, um ataque de sniffing de rede pode ser executado na camada física, onde um atacante intercepta e registra o tráfego de rede bruto que é transmitido pela rede antes que ele possa ser processado por camadas superiores. Compreender como a comunicação física ocorre pode ajudá-lo a entender melhor como esses tipos de ataques podem ser executados e como podem ser evitados.
