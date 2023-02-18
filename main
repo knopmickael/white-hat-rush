@@ -1,0 +1,18 @@
+network:
+	osi:
+		physical-layer:
+		data-link-layer:
+		network-layer:
+		transport-layer:
+		session-layer:
+		presentation-layer:
+		application-layer:
+	protocols:
+	addressing:
+	topology:
+	devices:
+	virtualization:
+os:
+programming:
+security:
+pentest:
